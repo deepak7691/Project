@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
 
 * {
   margin: 0;
@@ -247,302 +247,288 @@ i {
   color: lightgray;
 }
 
-
-.testi{
-    width: 100%;
-    margin: 150px auto 60px auto;
-    background: rgb(245, 243, 243);
-    display: flex;
-    flex-direction: column;
+.testi {
+  width: 100%;
+  margin: 150px auto 60px auto;
+  background: rgb(245, 243, 243);
+  display: flex;
+  flex-direction: column;
 }
 
-.content2{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 30px;
+.content2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
 }
 
-.content2 h2{
-    width: 400px;
-    font-size: 50px;
-    margin: 15px;
-    text-align: center;
+.content2 h2 {
+  width: 400px;
+  font-size: 50px;
+  margin: 15px;
+  text-align: center;
 }
 
-.content2 p{
-    color: lightslategray;
-    width: 410px;
-    text-align: center;
+.content2 p {
+  color: lightslategray;
+  width: 410px;
+  text-align: center;
 }
 
-.picman{
-    width: 60%;
-    margin: 50px auto;
-    display: flex;
-    gap: 10vw;
+.picman {
+  width: 60%;
+  margin: 50px auto;
+  display: flex;
+  gap: 10vw;
 }
 
-.imagecontainers{
-    background-color: lightblue;
-    height: 400px;
+.imagecontainers {
+  background-color: lightblue;
+  height: 400px;
 }
 
-
-.manimage{
-    width: 100%;
-    background-color: transparent;
-    mix-blend-mode: darken;
+.manimage {
+  width: 100%;
+  background-color: transparent;
+  mix-blend-mode: darken;
 }
 
-.contentText{
-    display: flex;
-    flex-direction: column;
-    gap: 45px;
+.contentText {
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
 }
 
-.iconsarrow{
-    display: flex;
-    gap: 20px;
+.iconsarrow {
+  display: flex;
+  gap: 20px;
 }
 
-a{
-    width: 50px;
-    border-radius: 50%;
-    background-color: white;
-    padding: 12px;
-    height: 50px;
+a {
+  width: 50px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 12px;
+  height: 50px;
 }
 
-.ceo{
-    color: #cfbfbf;
-    margin-top: -40px;
-    font-size: smaller;  
+.ceo {
+  color: #cfbfbf;
+  margin-top: -40px;
+  font-size: smaller;
 }
 
 .main {
-    background-color: #254D4D;
-    width: 100%;
-    height: 500px;
+  background-color: #254d4d;
+  width: 100%;
+  height: 500px;
 }
 
 .footer {
-   
-    font-family: 'Roboto', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .footerItem {
-    height: 200px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.226);
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.226);
 }
 
 .button {
-    display: flex;
-    gap: 10px;
-    margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
 }
 
 .btn1 {
-    border-radius: 50px;
-    background-color: #fff;
-    color: #254D4D;
-    border: none;
-    width: 150px;
-    height: 40px;
+  border-radius: 50px;
+  background-color: #fff;
+  color: #254d4d;
+  border: none;
+  width: 150px;
+  height: 40px;
 }
 
 .btn2 {
-    border-radius: 50px;
-    padding: 10px 20px;
-    color: #fff;
-    background-color: #9194942d;
-    border: none;
-    cursor: pointer;
-    width: 150px;
-    height: 40px;
+  border-radius: 50px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #9194942d;
+  border: none;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
 }
 
 .heading {
-    color: white;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    line-height: 1.5;
+  color: white;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  line-height: 1.5;
 }
-
 
 .heading,
 .button {
-    margin: 100px;
-    
+  margin: 100px;
 }
 
-
-.furniCom{
-    display: flex;
-    flex-direction: row;
-    margin-top: 50px;
+.furniCom {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
 }
 .furni {
-    color: white;
-    text-align: center;
-    width: 40%; 
+  color: white;
+  text-align: center;
+  width: 40%;
 }
 
 .furni h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
 }
 
 .para {
-    margin-bottom: 10px;
-    line-height: 1.5;
-    color: rgb(177, 171, 171);
+  margin-bottom: 10px;
+  line-height: 1.5;
+  color: rgb(177, 171, 171);
 }
 
 .icons {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .icons i {
-    font-size: 1.5rem;
-    margin: 10px 10px;
+  font-size: 1.5rem;
+  margin: 10px 10px;
 }
 
-.lists{
-    margin: 0 40px;
+.lists {
+  margin: 0 40px;
 }
 
-.lists h4{
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    margin-bottom: 15px;
+.lists h4 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  margin-bottom: 15px;
 }
-.lists li{
-    list-style-type: none;
-    color: rgb(177, 171, 171);
-    margin-bottom: 8px;
-}
-
-.links div{
-    font-weight: 900;
+.lists li {
+  list-style-type: none;
+  color: rgb(177, 171, 171);
+  margin-bottom: 8px;
 }
 
-.logo{
-    font-weight: 900;
+.links div {
+  font-weight: 900;
 }
 
-
-.aboutus{
-    width: 90%;
-    margin: 50px auto;
-    position: relative;
+.logo {
+  font-weight: 900;
 }
 
-.about{
-    font-size: 50px;
-    padding: 66px;
-    color: rgb(5, 80, 85);
-}
-.aboutpara{
-
-    width: 470px;
-    font-size: 20px;
-    color: lightgray;
-    margin-top: -60px;
-    margin-left: 65px;
-
+.aboutus {
+  width: 90%;
+  margin: 50px auto;
+  position: relative;
 }
 
-.learn{
-    position: absolute;
-    top: 100px;
-    right: 100px;
-    padding: 15px 30px;
-    border: none;
-    font-size: 16px;
+.about {
+  font-size: 50px;
+  padding: 66px;
+  color: rgb(5, 80, 85);
+}
+.aboutpara {
+  width: 470px;
+  font-size: 20px;
+  color: lightgray;
+  margin-top: -60px;
+  margin-left: 65px;
 }
 
-.numbers{
-    
-    display: flex;
-    margin-top: 40px;
-    width: 100%;
-    margin: 40px auto;
-    
+.learn {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+  padding: 15px 30px;
+  border: none;
+  font-size: 16px;
 }
 
-.num{
-    display: flex;
-    flex-wrap: wrap;
-    width: 60%;
-    justify-content: center;
-    gap: 50px;
-    height: 400px;
-    margin-top: 30px;
+.numbers {
+  display: flex;
+  margin-top: 40px;
+  width: 100%;
+  margin: 40px auto;
 }
 
-
-.contentsmain{
-    padding: 10px;
-    width: 40%;
-    margin: 20px;
+.num {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  justify-content: center;
+  gap: 50px;
+  height: 400px;
+  margin-top: 30px;
 }
 
-.no{
-    margin: 8px 0;
+.contentsmain {
+  padding: 10px;
+  width: 40%;
+  margin: 20px;
 }
 
-.ques{
-    margin: 8px 0;
+.no {
+  margin: 8px 0;
 }
 
-.parass{
-    margin: 10px 0;
-    width: 290px;
+.ques {
+  margin: 8px 0;
 }
 
-.aboutimages{
-    width: 55%;
-    position: relative;
-    height: 600px;
+.parass {
+  margin: 10px 0;
+  width: 290px;
 }
 
-.img1{
-    
-    width: 250px;
-    position: absolute;
-    top: 60px;
-    left: 50px;
-    object-fit: cover;
+.aboutimages {
+  width: 55%;
+  position: relative;
+  height: 600px;
+}
 
+.img1 {
+  width: 250px;
+  position: absolute;
+  top: 60px;
+  left: 50px;
+  object-fit: cover;
 }
-.img2{
-    width: 250px;
-    position: absolute;
-    top: 0;
-    right: 40px;
-    height: 300px;
-    object-fit: cover;
+.img2 {
+  width: 250px;
+  position: absolute;
+  top: 0;
+  right: 40px;
+  height: 300px;
+  object-fit: cover;
 }
-.img3{
-    object-fit: cover;
-    width: 250px;
-    position: absolute;
-    top: 248px;
-    left: 50px;
-    height: 300px;
+.img3 {
+  object-fit: cover;
+  width: 250px;
+  position: absolute;
+  top: 248px;
+  left: 50px;
+  height: 300px;
 }
-.img4{
-    width: 250px;
-    position: absolute;
-    top: 325px;
-    right: 40px;
-    object-fit: cover;
+.img4 {
+  width: 250px;
+  position: absolute;
+  top: 325px;
+  right: 40px;
+  object-fit: cover;
 }
