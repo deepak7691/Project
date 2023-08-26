@@ -13,7 +13,6 @@
 
 header {
   width: 85%;
-
   height: 70px;
   margin: 0 auto;
   display: flex;
@@ -396,7 +395,7 @@ a {
 .para {
   margin-bottom: 10px;
   line-height: 1.5;
-  color: rgb(177, 171, 171);
+  color: rgb(28 26 26);
 }
 
 .icons {
