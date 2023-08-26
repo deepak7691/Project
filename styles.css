@@ -509,8 +509,9 @@ a {
 .about {
   font-size: 60px;
   padding: 66px;
+  font-weight: 800;
   color: rgb(5, 80, 85);
-  font-family: "Roboto", sans-serif;
+  font-family: cursive;
 }
 .aboutpara {
   width: 470px;
