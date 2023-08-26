@@ -200,7 +200,7 @@ i {
 
 .productsimages {
   width: 85%;
-  margin: 150px auto;
+  margin: 50px auto 150px auto;
   display: flex;
   flex-wrap: wrap;
 
