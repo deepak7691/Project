@@ -82,8 +82,8 @@ header {
 .dot {
   position: absolute;
   width: 120px;
-  top: 8px;
-  left: 150px;
+  top: -8px;
+  left: 115px;
 }
 .dotted {
   width: 100%;
